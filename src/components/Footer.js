@@ -6,9 +6,7 @@ const Footer = () => {
   return (
     <footer>
       <Container>
-        <p>
-          <a href="https://twitter.com/colbyfayock">Made by @colbyfayock</a>
-        </p>
+      
       </Container>
     </footer>
   );

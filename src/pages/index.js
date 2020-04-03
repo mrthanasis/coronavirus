@@ -104,10 +104,7 @@ const IndexPage = () => {
           </li>
         </ul>
 
-        <h2>Want to build your own map?</h2>
-        <p>
-          Check out <a href="https://github.com/colbyfayock/gatsby-starter-leaflet">github.com/colbyfayock/gatsby-starter-leaflet</a>
-        </p>
+        
       </Container>
     </Layout>
   );
