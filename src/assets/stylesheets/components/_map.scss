@@ -65,6 +65,7 @@ $map-background: #081217; // tilelayer background color
   border-radius: 100%;
   box-shadow: 0 2px 5px rgba(black, .9);
 
+  @media(hover:hover) and (pointer: fine){
   &:hover {
 
     .icon-marker-tooltip {
@@ -73,6 +74,7 @@ $map-background: #081217; // tilelayer background color
 
   }
 
+}
 }
 
 .icon-marker-tooltip {
