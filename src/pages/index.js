@@ -88,7 +88,7 @@ const IndexPage = () => {
     if ( !hasCountries || !map ) return;
 
     map.eachLayer(layer => {
-      if ( layer?.options?.name === 'OpenStreetMap' ) return;
+      if ( layer?.options?.name === 'Mapbox' ) return;
       map.removeLayer(layer);
     });
 
