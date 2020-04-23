@@ -219,4 +219,3 @@ const IndexPage = () => {
 };
 
 export default IndexPage;
-© 2020 GitHub, Inc.
