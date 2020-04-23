@@ -207,7 +207,8 @@ const IndexPage = () => {
       </div>
 
       <Container type="content" className="text-center home-start">
-        
+        NovelCOVID API
+https://github.com/NovelCOVID/API
       </Container>
     </Layout>
   );
